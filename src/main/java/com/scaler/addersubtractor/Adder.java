@@ -23,8 +23,6 @@ public class Adder implements Runnable {
 
             ///
             //
-
-
             lock.lock();
             if (i >= 500) {
                 System.out.println("STOP");
@@ -35,7 +33,6 @@ public class Adder implements Runnable {
             ///
             ///
             ///
-
         }
 //        lock.unlock();
     }
