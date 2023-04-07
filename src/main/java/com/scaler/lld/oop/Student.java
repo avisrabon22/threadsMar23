@@ -2,7 +2,8 @@ package com.scaler.lld.oop;
 
 import javax.sound.midi.Soundbank;
 
-public class Student {
+public class Student 
+ {
     String name;
     String batch;
     int age;
