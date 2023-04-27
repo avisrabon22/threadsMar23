@@ -1,7 +1,7 @@
 package com.scaler.lld.oop.polymorphism;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
+// import java.util.ArrayList;
+// import java.util.LinkedList;
 import java.util.List;
 
 public class Client {
@@ -28,7 +28,7 @@ public class Client {
             ((Student)user).setPsp(81.0);
         }
 
-        List<User> u1 = new ArrayList<>();
+        // List<User> u1 = new ArrayList<>();
 //        List<User> u2 = new LinkedList<>();
 
 

@@ -15,7 +15,7 @@ public class Student
     }
 
     void applyForJob(int jobId) {
-        if (psp < 80) {
+         if (psp < 80) {
             System.out.println("Fail");
             return;
         }
