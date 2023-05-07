@@ -5,37 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce19a563-62dc-4d44-8205-55044068212a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/accessmodifiers/anotherpackage/Client2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/accessmodifiers/anotherpackage/StudentChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/accessmodifiers/somepackage/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/accessmodifiers/somepackage/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/constructorchaining/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/constructorchaining/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/constructorchaining/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/constructorchaining/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/constructorchaining/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/constructors/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/constructors/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/constructorstest/Client2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/customconstructor/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/customconstructor/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/designpatterns/singleton/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/designpatterns/singleton/DatabaseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/inheritance/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/inheritance/Mentor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/inheritance/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/inheritance/TA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/inheritance/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/interfaces/APIStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/interfaces/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/interfaces/IntelligentStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/interfaces/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/interfaces/StudentCLass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/oop/polymorphism/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/oop/polymorphism/Mentor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/oop/polymorphism/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/oop/polymorphism/TA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/oop/polymorphism/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/designpatterns/adapter/ApplicationCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/designpatterns/adapter/ILogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/designpatterns/adapter/Log4JAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/designpatterns/adapter/LoggerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/designpatterns/adapter/Slo4JAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/designpatterns/adapter/thirdparty/log4j/Log4JSDK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/designpatterns/adapter/thirdparty/logger/LoggerAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/designpatterns/adapter/thirdparty/slo4j/LoggingAPI4J.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/designpatterns/practicalfactory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/designpatterns/practicalfactory/birds/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/designpatterns/practicalfactory/birds/BirdFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/designpatterns/practicalfactory/birds/BirdType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/designpatterns/practicalfactory/birds/Crow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/designpatterns/practicalfactory/birds/Hen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/designpatterns/practicalfactory/birds/Peacock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/designpatterns/practicalfactory/birds/Season.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaler/lld/designpatterns/practicalfactory/birds/Sparrow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +32,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -73,7 +60,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/namanbhalla/IdeaProjects/lldmar2023/threadsMar23/src/main/java/com/scaler/addersubtractoratomic&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/namanbhalla/IdeaProjects/lldmar2023/threadsMar23/src/main/java/com/scaler/lld/designpatterns/prototype/sol3&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -87,11 +74,13 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/scaler/lld/designpatterns/prototype/sol3" />
       <recent name="$PROJECT_DIR$/src/main/java/com/scaler/addersubtractoratomic" />
       <recent name="$PROJECT_DIR$/src/main/java/com/scaler/addersubtractorsyncmethod" />
       <recent name="$PROJECT_DIR$/src/main/java/com/scaler/addersubtractorimplicitlock" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.scaler.lld.designpatterns.prototype.sol2" />
       <recent name="com.scaler.lld.constructors" />
       <recent name="com.scaler.printtillhundredexecutor" />
     </key>
@@ -191,6 +180,10 @@
       <workItem from="1681316238124" duration="1769000" />
       <workItem from="1681752338643" duration="1625000" />
       <workItem from="1682353818729" duration="1535000" />
+      <workItem from="1682528553971" duration="3235000" />
+      <workItem from="1682699950748" duration="2732000" />
+      <workItem from="1682956098196" duration="2164000" />
+      <workItem from="1683132192314" duration="424000" />
     </task>
     <servers />
   </component>
